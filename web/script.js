@@ -85,7 +85,7 @@ async function getKeyData(e){
     data=data.data;
     let keyDiv=$(`div.key-${no}`)
     console.log(data);
-    // hello
+//hello2
     
 
     let dataDivs=$(`.data-divs-${no}`);
